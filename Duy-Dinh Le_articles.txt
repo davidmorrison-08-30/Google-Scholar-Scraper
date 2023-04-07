@@ -1,0 +1,291 @@
+National Institute of Informatics, Japan at TRECVID 2008.
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:Tyk-4Ss8FVUC
+
+National institute of informatics, japan at trecvid 2007: Bbc rushes summarization
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:9yKSN-GCB0IC
+
+The video browser showdown: a live evaluation of interactive video search tools
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:blknAaTinKkC
+
+NII-UIT at MediaEval 2016 Predicting Media Interestingness Task.
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:5nxA0vEk-isC
+
+Unsupervised face annotation by mining the web
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:JV2RwH3_ST0C
+
+ERI-MAC: An energy-harvested receiver-initiated MAC protocol for wireless sensor networks
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:70eg2SAEIzsC
+
+Nii-hitachi-uit at trecvid 2016
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:qUcmZB5y_30C
+
+Evaluation of multiple features for violent scenes detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:RHpTSmoSYBkC
+
+Visual analytics of political networks from face-tracking of news video
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:UeHWp8X0CEIC
+
+Ent-Boost: Boosting using entropy measures for robust object detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:Wp0gIr-vW9MC
+
+An efficient method for face retrieval from large video datasets
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:_kc_bZDykSQC
+
+Feature selection by AdaBoost for SVM-based face detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:maZDTaKrznsC
+
+Evaluation of deep models for real-time small object detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:4JMBOYKVnBMC
+
+Scalable face track retrieval in video archives using bag-of-faces sparse representation
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:HoB7MX3m0LUC
+
+A multi-stage approach to fast face detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:ufrVoPGSRksC
+
+Robust face track finding in video using tracked points
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:k_IJM867U9cC
+
+Hand gesture classification using boosted cascade of classifiers
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:0EnyYjriUFMC
+
+Re-ranking for person re-identification
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:mB3voiENLucC
+
+Face retrieval in large-scale news video datasets
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:a0OBvERweLwC
+
+Shin’ichi Satoh,“
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&citation_for_view=6lbtgt4AAAAJ:u5HHmVD_uO8C
+
+When face-tracking meets social networks: a story of politics in news videos
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:NaGl4SEjCO4C
+
+A receiver-initiated mac protocol for energy harvesting sensor networks
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:hqOjcs7Dif8C
+
+Multimedia event detection using segment-based approach for motion feature
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:d1gkVwhDpl0C
+
+A text segmentation based approach to video shot boundary detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:QIV2ME_5wuYC
+
+Finding important people in large news video databases using multimodal and clustering analysis
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:zA6iFVUQeVQC
+
+Face retrieval in broadcasting news video by fusing temporal and intensity information
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:u-x6o8ySG0sC
+
+An efficient feature selection method for object detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:BqipwSGYUEgC
+
+Multimedia event detection using event-driven multiple instance learning
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:g5m5HwL7SMYC
+
+A combination of spatial pyramid and inverted index for large-scale image retrieval
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:O3NaXMp0MMsC
+
+AttRel: an approach to person re-identification by exploiting attribute relationships
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:3fE2CSJIrl8C
+
+NII-UIT-VBS: A video browsing tool for known item search
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:pqnbT2bcN3wC
+
+Efficient traffic sign detection using bag of visual words and multi-scales sift
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:IjCSPb-OGe4C
+
+Rushes summarization using different redundancy elimination approaches
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:NMxIlDl6LWMC
+
+Fusion of local and global features for efficient object detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:ZeXyd9-uunAC
+
+Tutorial--Video Indexing, Search, Detection, and Description with Focus on TRECVID
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:bFI3QPDXJZMC
+
+Video indexing, search, detection, and description with focus on trecvid
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:Y0pCki6q_DkC
+
+Efficient large-scale multi-class image classification by learning balanced trees
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:ns9cj8rnVeAC
+
+You always look again: Learning to detect the unseen objects
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:mVmsd5A6BfQC
+
+Computational optimization for violent scenes detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:ldfaerwXgEUC
+
+NII-UIT: a tool for known item search by sequential pattern filtering
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=20&citation_for_view=6lbtgt4AAAAJ:SeFeTyx0c_EC
+
+NII, Japan at MediaEval 2011 Violent Scenes Detection Task.
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:HDshCWvjkbEC
+
+NII-ISM, Japan at TRECVID 2007: High Level Feature Extraction.
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:roLk4NBRz8UC
+
+Robust object detection using fast feature selection from huge feature sets
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:_FxGoFyzp5QC
+
+Query-adaptive late fusion with neural network for instance search
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:eQOLeE2rZwMC
+
+Integrating spatial information into inverted index for large-scale image retrieval
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:cFHS6HbyZ2cC
+
+NII, Japan at ImageCLEF 2011 Photo Annotation Task.
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:MXK_kJrjxJIC
+
+Video instance search via spatial fusion of visual words and object proposals
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:35N4QoGY0k4C
+
+Nii-uit browser: a multimodal video search system
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:YsMSGLbcyi4C
+
+Evaluation of Low-Level features for detecting Violent Scenes in videos
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:4TOpqqG69KYC
+
+Person re-identification using deformable part models
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:hFOr9nPyWt4C
+
+A comprehensive study of feature representations for semantic concept detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:M05iB0D1s5AC
+
+Face Detection, Tracking, and Recognition for Broadcast Video.
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:yD5IFk8b50cC
+
+YADA: you always dream again for better object detection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:f2IySw72cVMC
+
+Image Annotation Fusing Content-Based and Tag-Based Technique Using Support Vector Machine and Vector Space Model
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:Se3iqnhoufwC
+
+Indexing faces in broadcast news video archives
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:pyW8ca7W8N0C
+
+Efficient concept detection by fusing simple visual features
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:kNdYIx-mwKoC
+
+A Software Defined Networking Approach for Guaranteeing Delay in Wi-Fi Networks
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:nb7KW1ujOQ8C
+
+Targeting Bufferbloat in Wi-Fi Networks: An Emulator-based Approach
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:KxtntwgDAa4C
+
+Clustering web video search results with convolutional neural networks
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:fPk4N6BV_jEC
+
+Violent scene detection using mid-level feature
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=40&citation_for_view=6lbtgt4AAAAJ:9ZlFYXVOiuMC
+
+Auto face re-ranking by mining the web and video archives
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:4DMP91E08xMC
+
+Shin’ichi Satoh, and Tomoko Matsui,“
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:NhqRSupF_l8C
+
+Boosting face retrieval by using relevant set correlation clustering
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:M3ejUd6NZC8C
+
+Person X detector
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:hMod-77fHWUC
+
+NII Hitachi UIT at TRECVID 2018
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:iH-uZ7U-co4C
+
+Semantic extraction and object proposal for video search
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:GnPB-g6toBAC
+
+Video event detection by exploiting word dependencies from image captions
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:ULOm3_A8WrAC
+
+A social network analysis of face tracking in news video
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:YFjsv_pBGBYC
+
+Human Action recognition from depth videos using multi-projection based representation
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:r0BpntZqJG4C
+
+Concept Detection Using Local Binary Patterns and SVM
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:vV6vV6tmYwMC
+
+Learning Balanced Trees for Large Scale Image Classification
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:M3NEmzRMIkIC
+
+Sum-max video pooling for complex event recognition
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:R3hNpaxXUhUC
+
+Nii, japan at the first thumos workshop 2013
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:TQgYirikUcIC
+
+NII-KAORI-PERSON-SEARCH: A General Framework for Indexing and Retrieving People's Appearance in Large Video Archives
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:dfsIfKJdRG4C
+
+Improving retake detection by adding motion feature
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:8k81kl-MbHgC
+
+Fast face sequence matching in large-scale video databases
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:isC4tDSrTZIC
+
+NTT Communication Science Laboratories and NII at TRECVID 2011 Instance Search Task
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:W7OEmFMy1HYC
+
+Video search by multi-modal and clustering analysis
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:lSLTfruPkqcC
+
+Noise Removal Based Query Pre-processing to Improve Face Search Performance in Large Scale Video Databases
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:P5F9QuxV20EC
+
+Graph-based visual instance mining with geometric matching and nearest candidates selection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=60&citation_for_view=6lbtgt4AAAAJ:UebtZRa9Y70C
+
+Efficient Large Scale Image Classification via Prediction Score Decomposition
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:-f6ydRqryjwC
+
+Using node relationships for hierarchical classification
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:hC7cP41nSMkC
+
+NII-HITACHI-UIT at TRECVID 2015 instance search
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:u_35RYKgDlwC
+
+A Classification-Based Approach for Retake and Scene Detection in Rushes Video
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:LkGwnXOMwfcC
+
+Robust eye localization in video by combining eye detector and eye tracker
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:7PzlFSSx8tAC
+
+Ranking Image Annotation Using Vector Space Model
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:J_g5lzvAfSwC
+
+Improving image categorization by using multiple instance learning with spatial relation
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:IWHjjKOFINEC
+
+NII Hitachi UIT at TRECVID 2019
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:1sJd4Hv_s6UC
+
+Persons-in-places: a deep features based approach for searching a specific person in a specific location
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:TFP_iSt0sucC
+
+Searching a specific person in a specific location using deep features
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:rO6llkc54NcC
+
+News Archive Exploration Combining Face Detection and Tracking with Network Visual Analytics
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:aqlVkmm33-oC
+
+Human Action Recognition from Depth Videos Using Pool of Multiple Projections with Greedy Selection
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:2osOgNQ5qMEC
+
+Network Visual Analytics of News Videos based on Facetracking
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:RGFaLdJalmkC
+
+Cross-View Action Recognition by Projection-Based Augmentation
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:KlAtU1dfN6UC
+
+Large scale multi-class classification using latent classifiers
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:_Qo2XoVZTnwC
+
+Shin'ichi Satoh, and Duc Anh Duong. 2015
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:EUQCXRtRnyEC
+
+Recommend-Me: recommending query regions for image search
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6lbtgt4AAAAJ&cstart=80&citation_for_view=6lbtgt4AAAAJ:bEWYMUwI8FkC
+
